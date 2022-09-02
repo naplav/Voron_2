@@ -7,7 +7,7 @@
 ## Relevant Hardware
   BTT Octopus v1.1
 
-  BTT EBB 36 v1.2
+  BTT EBB36 v1.2
 
   BTT U2C Can to USB Adapter v1.1
 
