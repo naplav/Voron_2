@@ -4,6 +4,7 @@
 
 ![v2.4](./Images/v2.4_2392.jpg)
 
+## Relevant Hardware
   BTT Octopus v1.1
 
   BTT EBB 36 v1.2
@@ -13,5 +14,3 @@
   BTT PITFT 50 v2.0
 
   KlickyProbe
-
-  Purge Bucket
