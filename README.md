@@ -1,7 +1,6 @@
 # Voron 2.4r2 300mm #2392 Klipper backup
 
-![some_photos](./Images/stealthburner.jpg)
-![some_photos](./Images/v2.4 #2392.jpg)
+![some_photos](./Images/stealthburner.jpg)(./Images/v2.4 #2392.jpg)
 
   BTT Octopus v1.1
 
