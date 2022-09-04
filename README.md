@@ -45,5 +45,9 @@
   For configuring Telegram Bot you need to create the bot, and insert in telegram.conf TOKEN and your chat_id.
 
   For configuring klipper backup: https://github.com/Low-Frequency/klipper_backup_script
+  
+  For installing webcam (via crownest): https://github.com/mainsail-crew/moonraker-timelapse
+
+  For installing timelapse: https://github.com/mainsail-crew/moonraker-timelapse
 
 
