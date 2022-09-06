@@ -46,7 +46,7 @@
 
   For configuring klipper backup: https://github.com/Low-Frequency/klipper_backup_script
   
-  For installing webcam (via crownest): https://github.com/mainsail-crew/moonraker-timelapse
+  For installing webcam (via crownest): https://github.com/mainsail-crew/crowsnest
 
   For installing timelapse: https://github.com/mainsail-crew/moonraker-timelapse
 
