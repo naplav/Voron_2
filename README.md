@@ -1,8 +1,6 @@
-# Voron 2.4r2 300mm #2392 Klipper backup
+# Voron 2.4r2 300mm Klipper backup
 
 ![stealthburner](./Images/stealthburner.jpg)
-
-![v2.4](./Images/v2.4_2392.jpg)
 
 ## Relevant Hardware
   BTT Octopus v1.1
@@ -28,16 +26,14 @@
   git clone https://github.com/th33xitus/kiauh.git
   ./kiauh/kiauh.sh
 
-  Install Klipper, Mainsail, Fluidd, Telegram Bot, etc. In Advanced -> Extra install Shell-Command
+  Install Klipper, Mainsail, Fluidd, Telegram Bot, Shell-Command, etc.
 
-  Then build firmware (STM32F446), download it from /home/pi/klipper/output, rename file klipper.bin to firmware.bin e copy file to a SD card.
+  Then build firmware (STM32F446 STM32F429), download it from /home/pi/klipper/output, rename file klipper.bin to firmware.bin e copy file to a SD card.
 
   For installing auto z for klicky probe: https://github.com/protoloft/klipper_z_calibration
 
-  For installing auto resonance test, enable the script by exectuing: 
-  chmod +x ./klipper_config/scripts/generate_resonances_graph.py
-  help for troubleshooting shebang https://askubuntu.com/questions/896860/usr-bin-env-python3-r-no-such-file-or-directory
-
+  For installing auto resonance test
+  https://github.com/zellneralex/klipper_config/blob/master/input_shaper.cfg
 
   For installing the u2c controller: https://github.com/maz0r/klipper_canbus/blob/main/controller/u2c.md
   For installing the btt36 toolboard: https://github.com/maz0r/klipper_canbus/blob/main/toolhead/ebb36-42_v1.1.md
@@ -46,7 +42,7 @@
 
   For configuring klipper backup: https://github.com/Low-Frequency/klipper_backup_script
   
-  For installing webcam (via crownest): https://github.com/mainsail-crew/crowsnest
+  For installing webcam (crownest): https://github.com/mainsail-crew/crowsnest
 
   For installing timelapse: https://github.com/mainsail-crew/moonraker-timelapse
 
